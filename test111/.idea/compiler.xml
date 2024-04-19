@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web" />
+        <module name="distributedid" />
+        <module name="gateway-service" />
+        <module name="common" />
+        <module name="convention" />
+        <module name="datebase" />
+        <module name="base" />
+        <module name="cache" />
+        <module name="log" />
+        <module name="service" />
+        <module name="bizs" />
+        <module name="designpattern" />
+        <module name="idempotent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="framwork" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c16ad5ff-9d60-40d1-adc8-f0355f6fac87" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/H2302AJavaTools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\H2302AJavaTools\repository_xsx\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2fDZse92MvPsDbmOVRPIrPbQQ4L" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2302ACode\xxl\xxl-job-master\test111\user-service\gateway-service\src\main\resources" />
+      <recent name="D:\2302ACode\xxl\xxl-job-master\test111\framwork\web\src\main\resources" />
+      <recent name="D:\2302ACode\xxl\xxl-job-master\test111\framwork\log\src\main\resources" />
+      <recent name="D:\2302ACode\xxl\xxl-job-master\test111\framwork\idempotent\src\main\resources" />
+      <recent name="D:\2302ACode\xxl\xxl-job-master\test111\framwork\designpattern\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c16ad5ff-9d60-40d1-adc8-f0355f6fac87" name="Default Changelist" comment="" />
+      <created>1713337816776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713337816776</updated>
+      <workItem from="1713337819435" duration="194000" />
+      <workItem from="1713400998696" duration="61000" />
+      <workItem from="1713406699518" duration="26000" />
+      <workItem from="1713436366215" duration="1177000" />
+      <workItem from="1713437557274" duration="1134000" />
+      <workItem from="1713438703673" duration="62000" />
+      <workItem from="1713438772302" duration="1118000" />
+      <workItem from="1713439895311" duration="48000" />
+      <workItem from="1713439946849" duration="170000" />
+      <workItem from="1713440120070" duration="313000" />
+      <workItem from="1713440435994" duration="160000" />
+      <workItem from="1713440598609" duration="614000" />
+      <workItem from="1713485551546" duration="1922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
